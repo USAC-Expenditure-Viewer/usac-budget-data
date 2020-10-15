@@ -1,0 +1,109 @@
+GL - 5,,
+,,
+Account Code,Account Title,Status
+,,
+1010,Checking BOA USA,A
+1020,Checking BOA GSA,A
+1031,DO NOT USE,D
+1100,Investments Common Fund Wachovia/Wells Fargo,A
+1150,Investments BofA,A
+1221,A/R Miscellaneous,A
+1222,A/R Services and Enterprises,A
+1223,A/R USA,A
+1224,A/R GSA,A
+1225,A/R UC Regents,A
+1226,A/R Interest Income,A
+1229,Prepaid Expense,A
+1500,Asset-Xerox Copiers,A
+1501,Asset-Canon Copier,A
+1502,Asset-CSC Vans,A
+1503,Asset-Other Equipment,A
+1504,Asset-Ricoh Copier,A
+1510,Accum Depr-Xerox Copiers,A
+1511,Accum Depr-Canon Copier,A
+1512,Accum Depr-CSC Vans,A
+1513,Accum Depr-Other Equipment,A
+1514,Accum Depr-Ricoh Copier,A
+2000,Accounts Payable,A
+2010,Intercompany Payable,A
+2020,Non Resident Federal Tax,A
+2030,Non Resident State Tax,A
+2031,Candidate Suspense,A
+2040,A/P Escheatment,A
+2050,Due to CALPIRG/UC for Writing Center,A
+2060,Hold for UC Remittance,A
+2070,Endowment Deposits Held for Others,A
+2099,Accrued Payables,A
+3101,Accumulated Net Revenue,A
+3102,ANR Restricted Surplus,A
+3103,Contingency Reserve,A
+3104,PC Maintenance Reserve,A
+3105,Non-Recurrent Income and Expense,A
+3106,Jazz Reggae Reserve,A
+3107,Funds Held Reserve,A
+3108,CSC Van Reserve,A
+3111,Fund Balance Fixed Assets,A
+4100,Mandatory Fees,A
+4200,Interest Income,A
+4300,University Support,A
+4400,ASUCLA Support,A
+4500,Fee Income,A
+4600,Outside Income Sources,A
+4700,CALPIRG Voluntary Fee Income,A
+4800,Surplus Withdrawal,A
+4900,Net Assets Released from Restriction,A
+5001,Assistance,A
+5002,Staff Salaries,A
+5003,Commissioners Stipends,A
+5004,Officers Stipends,A
+5005,Directors Stipends,A
+5010,Payroll Taxes/Workers Comp,A
+6001,Operational Expenses,A
+6002,WINTER Operational Expenses,A
+6003,SPRING Operational Expenses,A
+6010,Supplies,A
+6011,Incentives,A
+6015,Computer Equipment,A
+6020,Postage/shipping,A
+6030,Telephones,A
+6040,Services/Subscriptions,A
+6045,Maintenance/Service Contract,A
+6110,Graphics,A
+6120,Daily Bruin Advertising,A
+6125,News Magazines,A
+6127,Daily Bruin - Resolutions,A
+6130,Newsletter,A
+6135,Outside Advertising,A
+6137,Bruin Post Advertising,A
+6140,Photocopying,A
+6145,Agenda Photocopies,D
+6150,T-shirts,A
+6210,Travel,A
+6212,Transportation,A
+6213,Retreats and Conferences,A
+6214,Parking,A
+6215,Reimbursable Travel,A
+6217,Candidate Campaign Expenditures,A
+6220,Programming,A
+6221,Interim Budget (SGOF),A
+6222,Interim Budget (SOOF),A
+6310,Facilities,A
+6410,Hospitality,A
+6510,Honorarium,A
+6511,Vol. Honorarium,A
+6610,Admin and Support Services,A
+6620,Maintenance,A
+6630,Utilities,A
+6635,Bank Balance Charges,A
+6637,Bank Balance Earnings,A
+6640,Repairs and Maintenance,A
+6645,Capital/Surplus Expense,A
+6650,Donations/Contributions,A
+6710,Mem Fee Bank Card Charges,A
+6720,Projectionist Charges,A
+6755,Film Rental,A
+6810,Special Fee Remittance,A
+6815,Compulsory Fee Refunds,A
+6850,Restricted Surplus Expense,A
+6855,Unallocated Surplus,A
+6900,Depreciation Expense,A
