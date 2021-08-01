@@ -44,17 +44,17 @@ def translate(infile, outfile):
 
             try:
                 fund, division, department, gl, event = \
-                    indexes_dict['fund'][int(line[1])], indexes_dict['division'][int(line[2])], \
-                    indexes_dict['department'][int(line[3])], indexes_dict['gl'][int(line[4])], \
-                    indexes_dict['event'][int(line[5])]
+                    line[1], line[2], \
+                    line[3], line[4], \
+                    line[5]
                 referenced_events.add(event)
             except ValueError:
                 continue
             except KeyError as e:
                 print("Keyerror", e)
                 fund, division, department, gl, event = \
-                    indexes_dict['fund'][int(line[1])], indexes_dict['division'][int(line[2])], \
-                    indexes_dict['department'][int(line[3])], indexes_dict['gl'][int(line[4])], \
+                    line[1], line[2], \
+                    line[3], line[4], \
                     int(line[5])
 
             # construct descriptions
@@ -74,6 +74,10 @@ def translate(infile, outfile):
 
             amount = convert_money(line[9]) + convert_money(line[10])
             date = convert_date(line[0])
+
+            if division == 'Mandatory Fee':
+                division = 'Membership Fee'
+
             writer.writerow([date, fund, division, department,
                             gl, event, desc,  amount] + list(words_set))
 
